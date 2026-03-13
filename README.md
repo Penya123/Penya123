@@ -1,4 +1,4 @@
-<biv style="center">
+<biv style="text-align: center;">
 System.out.println("Hi, I´m Jorge :3");
 </biv>
 
